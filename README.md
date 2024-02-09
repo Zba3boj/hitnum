@@ -9,4 +9,4 @@
 <span>4 : Maximum 5 wrong click is given otherwise you lost the game.</span>
 </p>
 
-<a href="https://amrit-web.github.io/hitnum/">Click Here To Play Game</a>
+<a href="https://zba3boj.github.io/hitnum/">Click Here To Play Game</a>
